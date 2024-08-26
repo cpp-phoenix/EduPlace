@@ -1,2 +1,2 @@
 # EduPlace
-An Education courses platform built on Edu chain
+A censorship resistant Educational courses platform powered by Edu chain.
